@@ -1,0 +1,15 @@
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\bin\Debug\var20pr8.exe.config
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\bin\Debug\var20pr8.exe
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\bin\Debug\var20pr8.pdb
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.csprojAssemblyReference.cache
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.Form1.resources
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.Properties.Resources.resources
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.csproj.GenerateResource.cache
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.csproj.CoreCompileInputs.cache
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.exe
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.pdb
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\bin\Debug\bd.mdf
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\bin\Debug\bd_log.ldf
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.Form2.resources
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.Form3.resources
+C:\Users\ip521-14\source\repos\var20pr8\var20pr8\obj\Debug\var20pr8.Form4.resources
